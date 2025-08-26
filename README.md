@@ -1,6 +1,7 @@
 # Frontend Mentor - Blog preview card
 
-(./preview.jpg)
+![Uploading preview.jpg…]()
+
 
 ## Welcome! 👋
 
