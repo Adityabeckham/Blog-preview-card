@@ -1,6 +1,6 @@
 # Frontend Mentor - Blog preview card
 
-![Uploading preview.jpg…]()
+![preview](https://github.com/user-attachments/assets/e75467c1-cb43-4d39-8b59-209c411fa3aa)
 
 
 ## Welcome! 👋
